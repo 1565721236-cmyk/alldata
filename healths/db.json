@@ -15,13 +15,6 @@
     "img": "1.png"
   },
   {
-    "id": "2",
-    "create_time": 1744878997,
-    "title": "The Multifaceted Advantages of Hair Transplant: A Gateway to a New You",
-    "type": "Beauty & Wellness",
-    "img": "2.png"
-  },
-  {
     "id": "3",
     "create_time": 1753753638,
     "title": "Plastic Pollution 2.0: Latest Initiatives Shaping a Cleaner Future",
@@ -90,13 +83,6 @@
     "title": "Trauma Explained: Fractures, Brain Injuries, and How They Are Treated",
     "type": "Medical Care",
     "img": "12.png"
-  },
-  {
-    "id": "13",
-    "create_time": 1744879528,
-    "title": "The Lifesaving Power of Healthcare Support: Bridging Gaps in Healthcare",
-    "type": "Medical Care",
-    "img": "13.png"
   },
   {
     "id": "14",
@@ -260,13 +246,6 @@
     "img": "36.png"
   },
   {
-    "id": "37",
-    "create_time": 1744880982,
-    "title": "Tooth Replacement Approaches: Affordable Solutions for a Healthy Smile",
-    "type": "Medical Care",
-    "img": "37.png"
-  },
-  {
     "id": "38",
     "create_time": 1744881673,
     "title": "Three Telltale Signs You May Need Tooth Replacement Approaches",
@@ -370,13 +349,6 @@
     "title": "The Wide - Reaching Impact: Who Advantages from Healthcare Support",
     "type": "Medical Care",
     "img": "52.png"
-  },
-  {
-    "id": "53",
-    "create_time": 1744880463,
-    "title": "Mastering the Path to Free Healthcare: Your Comprehensive Handbook",
-    "type": "Health Management",
-    "img": "53.png"
   },
   {
     "id": "54",
@@ -554,13 +526,6 @@
     "img": "78.png"
   },
   {
-    "id": "79",
-    "create_time": 1740034691,
-    "title": "Psychological Wellbeing Awareness: Illuminating the Path to Well - being",
-    "type": "Mental Health",
-    "img": "79.png"
-  },
-  {
     "id": "80",
     "create_time": 1751251164,
     "title": "A Complete Handbook on Teeth Whitening: Shine with Confidence",
@@ -615,13 +580,6 @@
     "title": "What Triggers Sciatica? Common Causes and Risk Factors Explained",
     "type": "Mental Health",
     "img": "87.jpg"
-  },
-  {
-    "id": "88",
-    "create_time": 1740363359,
-    "title": "The Invaluable Role of Weight - Loss Experts: Your Partners in Health",
-    "type": "Lifestyle",
-    "img": "88.png"
   },
   {
     "id": "89",
@@ -839,13 +797,6 @@
     "title": "Selecting the Perfect the Right Air Purifier: Recommendations and Buying Strategies",
     "type": "Lifestyle",
     "img": "119.png"
-  },
-  {
-    "id": "120",
-    "create_time": 1742797177,
-    "title": "The Cost of a Full Set of Tooth Replacement Approaches: A Complete Overview",
-    "type": "Medical Care",
-    "img": "120.png"
   },
   {
     "id": "121",
