@@ -1,7 +1,7 @@
 [
   
-  { 
-    info1:[
+   { 
+    "info1":[
     "Mental Health",
     "Medical Care",
     "Lifestyle",
@@ -10,7 +10,7 @@
     "Health Management"
   ],
 
-    info2:[
+  "info2":[
     "Mental Health",
     "Medical Care",
     "Lifestyle",
@@ -19,7 +19,7 @@
     "Health Management"
   ],
     
-  info3:[
+  "info3":[
     "Mental Health",
     "Medical Care",
     "Lifestyle",
@@ -28,7 +28,7 @@
     "Health Management"
   ],
     
-   info4:[
+  "info4":[
     "Mental Health",
     "Medical Care",
     "Lifestyle",
@@ -37,7 +37,7 @@
     "Health Management"
   ],
     
-   info5:[
+  "info5":[
     "Mental Health",
     "Medical Care",
     "Lifestyle",
@@ -46,7 +46,7 @@
     "Health Management"
   ],
     
-  info6:[
+  "info6":[
     "Mental Health",
     "Medical Care",
     "Lifestyle",
@@ -55,7 +55,7 @@
     "Health Management"
   ],
     
-   info7:[
+  "info7":[
     "Mental Health",
     "Medical Care",
     "Lifestyle",
@@ -63,8 +63,7 @@
     "Beauty & Wellness",
     "Health Management"
   ]
-  }
-
+  },
 
 
   
