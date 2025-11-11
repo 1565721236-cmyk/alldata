@@ -3,7 +3,7 @@
    { 
     "info1":[
     "Mental Health",
-    "Medical Care",
+   
     "Lifestyle",
     "Emergency & Safety",
     "Beauty & Wellness",
@@ -12,7 +12,7 @@
 
   "info2":[
     "Mental Health",
-    "Medical Care",
+   
     "Lifestyle",
     "Emergency & Safety",
     "Beauty & Wellness",
@@ -21,7 +21,7 @@
     
   "info3":[
     "Mental Health",
-    "Medical Care",
+   
     "Lifestyle",
     "Emergency & Safety",
     "Beauty & Wellness",
@@ -30,7 +30,7 @@
     
   "info4":[
     "Mental Health",
-    "Medical Care",
+   
     "Lifestyle",
     "Emergency & Safety",
     "Beauty & Wellness",
@@ -38,17 +38,18 @@
   ],
     
   "info5":[
-    "Mental Health",
-    "Medical Care",
-    "Lifestyle",
-    "Emergency & Safety",
+     "Emergency & Safety",
     "Beauty & Wellness",
-    "Health Management"
+    "Health Management",
+    "Mental Health",
+    
+    "Lifestyle"
+   
   ],
     
   "info6":[
     "Mental Health",
-    "Medical Care",
+    
     "Lifestyle",
     "Emergency & Safety",
     "Beauty & Wellness",
@@ -57,9 +58,9 @@
     
   "info7":[
     "Mental Health",
-    "Medical Care",
+   
     "Lifestyle",
-    "Emergency & Safety",
+   
     "Beauty & Wellness",
     "Health Management"
   ]
@@ -920,5 +921,13 @@
     "title": "Staying Safe in High Temperatures: Simple Ways to Prevent Heat-Related Illness",
     "type": "Lifestyle",
     "img": "130.png"
+  }
+  ,
+  {
+    "id": "131",
+    "create_time": 1753753541,
+    "title": "Staying Safe in High Temperatures: Simple Ways to Prevent Heat-Related Illness22",
+    "type": "Lifestyle",
+    "img": "131.png"
   }
 ]
