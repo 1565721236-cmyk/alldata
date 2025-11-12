@@ -2,67 +2,74 @@
   
    { 
     "info1":[
-    "Mental Health",
-   
-    "Lifestyle",
-    "Emergency & Safety",
-    "Beauty & Wellness",
-    "Health Management"
+      "Mental Health",
+      "Medical Care",
+      "Lifestyle",
+      "Emergency & Safety",
+      "Beauty & Wellness",
+      "Health Management",
+      "Home Healths"
   ],
 
   "info2":[
-    "Mental Health",
-   
-    "Lifestyle",
-    "Emergency & Safety",
-    "Beauty & Wellness",
-    "Health Management"
+   "Mental Health",
+      "Medical Care",
+      "Lifestyle",
+      "Emergency & Safety",
+      "Beauty & Wellness",
+      "Health Management",
+      "Home Healths"
   ],
     
   "info3":[
-    "Mental Health",
-   
-    "Lifestyle",
-    "Emergency & Safety",
-    "Beauty & Wellness",
-    "Health Management"
+   "Mental Health",
+      "Medical Care",
+      "Lifestyle",
+      "Emergency & Safety",
+      "Beauty & Wellness",
+      "Health Management",
+      "Home Healths"
   ],
     
   "info4":[
     "Mental Health",
-   
-    "Lifestyle",
-    "Emergency & Safety",
-    "Beauty & Wellness",
-    "Health Management"
+      "Medical Care",
+      "Lifestyle",
+      "Emergency & Safety",
+      "Beauty & Wellness",
+      "Health Management",
+      "Home Healths"
   ],
     
   "info5":[
-     "Emergency & Safety",
-    "Beauty & Wellness",
-    "Health Management",
-    "Mental Health",
-    
-    "Lifestyle"
+     "Mental Health",
+      "Medical Care",
+      "Lifestyle",
+      "Emergency & Safety",
+      "Beauty & Wellness",
+      "Health Management",
+      "Home Healths"
    
   ],
     
   "info6":[
-    "Mental Health",
-    
-    "Lifestyle",
-    "Emergency & Safety",
-    "Beauty & Wellness",
-    "Health Management"
+   "Mental Health",
+      "Medical Care",
+      "Lifestyle",
+      "Emergency & Safety",
+      "Beauty & Wellness",
+      "Health Management",
+      "Home Healths"
   ],
     
   "info7":[
-    "Mental Health",
-   
-    "Lifestyle",
-   
-    "Beauty & Wellness",
-    "Health Management"
+   "Mental Health",
+      "Medical Care",
+      "Lifestyle",
+      "Emergency & Safety",
+      "Beauty & Wellness",
+      "Health Management",
+      "Home Healths"
   ]
   },
 
