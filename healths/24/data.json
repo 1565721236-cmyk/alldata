@@ -2,7 +2,7 @@
   "id": "24",
   "title": "In the canvas of modern healthcare, the brushstrokes of health plans paint a picture of preventative care, individual empowerment, and a healthier society.",
   "type": "Health Management",
-  "img": "24.png",
+  "img": "24.jpg",
   "section": "Healthcare and Medical Services",
   "content": [
     "  <p>In the vast landscape of healthcare, where distance can be a formidable barrier, telemedicine emerges as the beacon of innovation, dismantling geographical restrictions and infusing science and technology into the very fabric of healthcare delivery.</p>",
@@ -24,7 +24,7 @@
     "<p>The rollout of 5G technology is a catalyst for telemedicine's metamorphosis. High-speed, low-latency connectivity opens avenues for real-time remote patient monitoring, high-definition video consultations, and seamless transmission of medical data. This not only enhances the quality of telehealth services but also enables the integration of data-intensive technologies like AI and remote diagnostics.</p>",
     "<h3>Blockchain in Telemedicine: Securing Health Data Transactions</h3>",
     "<p>The future of telemedicine is entwined with the robust security provided by blockchain technology. Blockchain ensures the integrity and privacy of health data, vital in an era where digital health records and telehealth transactions are ubiquitous. Patients gain control over their data, and healthcare providers can securely access and update information, fostering a trustworthy and transparent healthcare ecosystem.</p>",
-    "<img src=\"24_content_0.png\">",
+    "<img src=\"24_content_0.jpg\">",
     "<h3>Internet of Things (IoT) Integration: Creating a Health Data Symphony</h3>",
     "<p>Picture a scenario where wearable devices seamlessly communicate with telemedicine platforms, creating a continuous stream of health data. The Internet of Things (IoT) integration is a cornerstone of future telemedicine, enabling remote monitoring of vital signs, medication adherence, and lifestyle factors. This interconnected web of health data facilitates more personalized and preventive care strategies.</p>",
     "<h3>Predictive Analytics and Personalized Medicine: Tailoring Telehealth Solutions</h3>",
