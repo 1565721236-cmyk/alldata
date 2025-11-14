@@ -1,23 +1,5 @@
 [
   {
-    "info1": [
-      "Investing",
-      "Finance",
-      "Loans & Mortgages",
-      "real estate",
-      "Car",
-      "Law",
-      "Lawyer"
-    ],
-    "info2": [
-      "Loans & Mortgages",
-      "real estate",
-      "Investing",
-      "Finance",
-       "Car"
-    ]
-  },
-  {
     "id": "1",
     "create_time": 1755142968,
     "title": "Smart Investing: Advanced Techniques and Real-World Applications",
